@@ -104,3 +104,6 @@ n["@jwill2theizzay"] = {"jwill2theizzay", "|c5c88fej|r|c6882fdw|r|c757bfci|r|c81
 n["@Trouble13691"] = {"Trouble13691", "|c001cffT|r|c0030ffr|r|c0043ffo|r|c0056ffu|r|c0069ffb|r|c007dffl|r|c0090ffe|r|c00a3ff1|r|c00b6ff3|r|c00caff6|r|c00ddff9|r|c00f0ff1|r"}
 n["@Mushki"] = {"Mushki", "|cff6bf0M|r|cff6eecu|r|cff72e9s|r|cff75e6h|r|cff78e2k|r|cff7bdfi|r"}
 n["@K.YChen"] = {"K.YChen", "|cdf0d24K|r|cbe1749.|r|c9e216dY|r|c7e2c92C|r|c5e36b6h|r|c3d40dbe|r|c1d4affn|r"}
+n["@TetsuNoKirai"] = {"TetsuNoKirai", "|c9200f0T|r|c9c00e1e|r|ca600d1t|r|cb000c2s|r|cba00b3u|r|cc400a4N|r|ccd0094o|r|cd70085K|r|ce10076i|r|ceb0067r|r|cf50057a|r|cff0048i|r"}
+n["@Mittrik"] = {"Mittrik", "|c8c9396M|r|c70797dittrik|r"}
+n["@El_Prezz"] = {"El_Prezz", "|cff2910E|r|cff4514l|r|cff6018_|r|cff7b1cP|r|cff961fr|r|cffb223e|r|cffcd27z|r|cffe82bz|r"}
